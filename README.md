@@ -1,4 +1,4 @@
-# EX-03-Forward-kinematics-using-robo-analyzer
+# EX-02-Forward-kinematics-using-robo-analyzer
 
 ## AIM: 
 To analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles.
